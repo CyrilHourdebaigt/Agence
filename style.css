@@ -617,7 +617,7 @@ footer ul li {
     padding: 0;
     margin: 0;
     }
-    
+
    .loupe {
         display: block;
     }
@@ -677,6 +677,11 @@ footer ul li {
         padding: 0;
         margin: 10px 5px;
     }
+
+    .fa-info {
+        padding: 5px;
+    }
+    
     .hebergements {
         width: 100%;
         background: none !important;
