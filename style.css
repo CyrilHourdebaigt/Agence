@@ -671,8 +671,6 @@ footer ul li {
 
     .info-bar {
         width: 100%;
-        justify-content: center;
-        align-items: center;
         padding-left: 15px;
     }
 
@@ -743,14 +741,10 @@ footer ul li {
     }
 
     .populaires-cards .card-title{
-        font-size: 18px;
+        font-size: 16px;
     }
     .populaires-cards .card-subtitle {
-        margin-top: 20px;
-    }
-
-    .card-subtitle {
-        padding-top: 15px;
+        margin-top: 10px;
     }
 
     div .hebergements-and-populaires {
@@ -766,7 +760,7 @@ footer ul li {
     }
 
    .card-title {
-        size: 16px;
+        font-size: 16px;
         margin: 0;
    }
 
