@@ -41,7 +41,7 @@ nav {
     align-items: center; 
 }
 
-nav .logo {
+.logo {
     width: 7%;
 }
 
@@ -99,11 +99,9 @@ form div {
 }
 
 .fa-location-dot {
-    
     width: 14px;
     height: 18px;
     color: #000;
-    
 }
 
 form input {
@@ -111,7 +109,6 @@ form input {
     text-align: center;
     font-weight: bold;
     border: 1px solid #F2F2F2;
-    
 }
 
 .barrerecherche {
@@ -129,7 +126,6 @@ form input {
 }
 
 .loupe {
-    
     display: none;
 }
 
@@ -353,6 +349,7 @@ a {
 .activites h2 {
     margin-top: 50px;
 }
+
 .activites-carte {
     display: flex;
     flex-direction: row;
@@ -552,7 +549,7 @@ footer ul li {
         height: 130px;
     }
 
-    nav .logo {
+    .logo {
         width: 40%;
         height: 50px;
         margin-top: 20px;
@@ -718,12 +715,12 @@ footer ul li {
     .populaires-cards {
         flex-direction: column;
         margin: 10px 20px 0px 20px;
-        
-   }
+    }
 
    .fa-chart-line {
         margin-right: 20px;
    }
+
     .populaires-cards .card-content {
         width: 100%;
    }
