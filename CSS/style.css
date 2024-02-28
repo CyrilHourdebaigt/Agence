@@ -252,9 +252,9 @@ a {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around; 
     margin-top: 20px;
-    width: auto;
+    width: 100%;
     gap: 20px;
 }
 
@@ -291,7 +291,7 @@ a {
 }
 
 .afficher-plus {
-    width: 220px;
+    width: 100%;
 }
 
 /****** Populaires ***********/
