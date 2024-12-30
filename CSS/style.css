@@ -222,7 +222,7 @@ a {
 
 
 
-/****** Hebergements And Populaires ***********/
+/****** Hebergements et Populaires ***********/
 
 .hebergements-and-populaires {
     display: flex;
@@ -427,10 +427,7 @@ footer ul li {
 }
 
 
-/* Le code ci-dessous correspond à la version responsive uniquement */
-
 /****** Media queries ***********/
-/* Medium devices (tablets, less/equal than 1024px) */
 @media (max-width: 1024px) {
 
     header nav ul {
@@ -547,7 +544,6 @@ footer ul li {
     }
 }
 
-/* Small devices (phones, less than 768px) */
 @media (max-width: 768px) {
 
     .main-container{
